@@ -4,5 +4,6 @@
 This simple web introduce web3 forum for cryptocurrency wallet holder to interact against each other with anonymyity 
 
 <img align='center' src='https://github.com/asamarsal/my_forum_dApp/blob/main/sampul.PNG' width='900"'>
+<img align='center' src='https://github.com/asamarsal/my_forum_dApp/blob/main/sampul2.PNG' width='900"'>
 
 - Check this on [Forum Dapp](https://black-cell-9212.on.fleek.co/)
